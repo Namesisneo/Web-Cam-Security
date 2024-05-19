@@ -27,3 +27,5 @@ The Webcam Motion Detector is a Python application designed to monitor a specifi
    ```bash
    git clone https://github.com/Namesisneo/Webcam-Motion-Detector.git
    cd Webcam-Motion-Detector
+
+Credits : Ardit Sulce
